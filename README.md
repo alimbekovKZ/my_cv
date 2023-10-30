@@ -1,5 +1,6 @@
 # My CV
 CV Alimbekov Renat
+
 http://www.careercup.com/resume. 
 
 The class is based on `article` class. The paper format is set to U.S. letterpaper by default. A template showing an example usage of the class is included.
