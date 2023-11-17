@@ -1,0 +1,159 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "awards": ""
+  },
+  "basics": {
+    "email": "alimbekovr@hotmail.com",
+    "phone": "+77014388289",
+    "location": {
+      "address": "Almaty"
+    },
+    "name": "Alimbekov Renat",
+    "website": "https://alimbekov.com/"
+  },
+  "education": [
+    {
+      "startDate": "2004",
+      "endDate": "2008",
+      "institution": "Al-Farabi Kazakh National University",
+      "location": "Almaty",
+      "studyType": "BS",
+      "area": "Mathematical Computer Modeling"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "startDate": "06/2023",
+      "highlights": [
+        "Help product teams with ML hypotheses and their implementation in prod",
+        "Developed a customer LTV prediction model for a health and wellness app developer",
+        "Development of a model for classify the category of vacancies by text. Average model ROC AUC: 0.979."
+      ],
+      "company": "Freelance",
+      "position": " Data Science and Data Analytics Consultant",
+      "location": "Remote",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Lead a team of 35+ people (7 streams: Fintech, Devices, MobileAd and GEO, Computer Vision, NLP, Internal projects, CVM) to increase profit in company.",
+        "Achieved almost three times growth in a year with the busines",
+        "Work with businesses to identify hypotheses. Forms goals for all teams"
+      ],
+      "company": "VEON Kazakhstan (Telecom Company)",
+      "position": "Head of Big Data Analytics and Data Science Department",
+      "location": "Remote",
+      "startDate": "04/2022",
+      "endDate": "06/2023"
+    },
+    {
+      "highlights": [
+        "Led full-cycle development of the Passive Liveness Product",
+        "Work with product metrics. development of target metrics",
+        "Work to improve biometrics interface to reduce recognition errors"
+      ],
+      "company": "VEON Kazakhstan (Telecom Company)",
+      "position": "Biometric product engineer",
+      "location": "Remote",
+      "startDate": "04/2021",
+      "endDate": "04/2022"
+    },
+    {
+      "highlights": [
+        "Work in medtech project to help doctors and radiologists identify diseases on X-ray, CT and mammography images",
+        "Conducting custdev with doctors, UX research features, creates a backlog of tasks for design improvements"
+      ],
+      "company": "ForUs Data (AI MedTech Startup)",
+      "location": "Almaty",
+      "startDate": "05/2019",
+      "position": "Deep Learning Scientist",
+      "endDate": "03/2021"
+    },
+    {
+      "highlights": [
+        "Conducting in-depth interviews with users and metors",
+        "Competitor analysis",
+        "Increase in customer satisfaction by 5%"
+      ],
+      "company": "Practicum by Yandex (Education Platform)",
+      "position": "Senior mentor, Data Science",
+      "location": "Remote",
+      "startDate": "07/2019",
+      "endDate": "08/2021"
+    },
+    {
+      "highlights": [
+        "Responsible for analytics and strategy for automated decision making on credit products:"
+      ],
+      "position": " Data Scientist / Analyst Lead, Credit Analysis and Scoring Division",
+      "company": "Kaspi.kz (FinTech)",
+      "location": "Almaty",
+      "startDate": "06/2018",
+      "endDate": "05/2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Pytorch, Pandas, Numpy, Sklearn, Flask, SQL",
+        "Python, Bash, Git, gradient boosting, CV"
+      ],
+      "name": "Computer skills"
+    },
+    {
+      "keywords": [
+        "English – intermediate",
+        "Russian – native"
+      ],
+      "name": "Language skills"
+    },
+    {
+      "keywords": [
+        "Team Management, Product Management, Mentoring, Leadership "
+      ],
+      "name": "Managment"
+    }
+  ],
+  "projects": [
+    {
+      "url": "https://alimbekov.com/",
+      "keywords": [
+        ""
+      ],
+      "name": "Blog",
+      "description": "Blog about practical tips on DS and ML"
+    },
+    {
+      "keywords": [
+        "Python, SQL, Airflow, Parsing, Selenium, FastAPI",
+        "Looker data studio"
+      ],
+      "name": "Fantasy EPL",
+      "description": "Create serivce with reports and dashboards for Fantasy English Premier League"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Kaggle Competitions Expert (Highest Rank - 559)",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "BarCampCA2010 Ideas Market Winner "
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
