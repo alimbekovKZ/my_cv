@@ -24,11 +24,25 @@
     }
   ],
   "work": [
+      {
+      "website": "",
+      "startDate": "06/2023",
+      "highlights": [
+        "Developed a customer LTV prediction model for a health and wellness app developer",
+        "Development of a model for classify the category of vacancies by text for the vacancies aggregator service. Average model ROC AUC: 0.979.",
+        "Create model to detect geo outliers. F1 Score: 0.95",
+        "Improve eye diseases model accuracy by 5%"
+      ],
+      "company": "Freelance",
+      "position": " Data Science and Data Analytics Consultant",
+      "location": "Remote",
+      "endDate": "Present"
+    },
     {
       "website": "",
       "startDate": "06/2023",
       "highlights": [
-        " Developed a customer LTV prediction model for a health and wellness app developer",
+        "Developed a customer LTV prediction model for a health and wellness app developer",
         "Development of a model for classify the category of vacancies by text for the vacancies aggregator service. Average model ROC AUC: 0.979.",
         "Create model to detect geo outliers. F1 Score: 0.95",
         "Improve eye diseases model accuracy by 5%"
